@@ -1,7 +1,7 @@
 # Portfólio de Social Media & Design Gráfico — Comunicação Institucional
 
 <p align="center">
-  <img src="./posts/vestibular-inverno/02-folder-informativo.jpg" alt="Campanha Web Design" width="100%">
+  <img src="./posts/vestibular-inverno/02-folder-informativo.jpeg" alt="Campanha Web Design" width="100%">
 </p>
 
 ## 📌 Sobre o Projeto
@@ -25,7 +25,7 @@ Material criado para engajar a comunidade acadêmica e promover a divulgação d
 
 | Card do Palestrante | Banner de Inscrição e QR Code |
 | :---: | :---: |
-| <img src="./posts/encontro-egressos/01-convidado-eliezer.jpg" width="350px" alt="Palestrante"> | <img src="./posts/encontro-egressos/02-card-inscricao.jpeg" width="350px" alt="Inscrições"> |
+| <img src="./posts/encontro-egressos/01-convidado-eliezer.jpeg" width="350px" alt="Palestrante"> | <img src="./posts/encontro-egressos/02-card-inscricao.jpeg" width="350px" alt="Inscrições"> |
 
 ### 🎓 2. Campanha: Vestibular de Inverno 2026
 Fluxo completo de layouts desenvolvido para atrair novos alunos e guiar os candidatos cadastrados até o dia da avaliação.
@@ -42,13 +42,13 @@ Peças criadas para a reta final do cronograma, englobando senso de urgência e 
 
 | Senso de Urgência (Contagem) | Guia do Candidato (O que levar) |
 | :---: | :---: |
-| <img src="./posts/vestibular-inverno/03-contagem-regressiva.jpeg" width="350px" alt="Últimos dias"> | <img src="./posts/vestibular-inverno/04-guia-da-prova.jpg" width="350px" alt="Instruções da Prova"> |
+| <img src="./posts/vestibular-inverno/03-contagem-regressiva.jpeg" width="350px" alt="Últimos dias"> | <img src="./posts/vestibular-inverno/04-guia-da-prova.jpeg" width="350px" alt="Instruções da Prova"> |
 
 ---
 
 ## 🔗 Link para o Perfil Oficial
 Você pode conferir a aplicação e o feed completo com o uso desses templates diretamente no perfil do curso:
-👉 [Acessar o Instagram Oficial](INSIRA_O_LINK_DO_PERFIL_AQUI)
+👉 [Acessar o Instagram Oficial](https://www.instagram.com/adsfatecourinhos/)
 
 ---
 <p align="center">Portfólio de monitoria focado em Design Visual, Identidade de Marca e Comunicação para Comunidades Acadêmicas de Tecnologia.</p>
