@@ -1,4 +1,4 @@
-# 🎨 Portfólio de Social Media & Design Gráfico — Comunicação Institucional
+# Portfólio de Social Media & Design Gráfico — Comunicação Institucional
 
 <p align="center">
   <img src="./posts/vestibular-inverno/02-folder-informativo.jpg" alt="Campanha Web Design" width="100%">
