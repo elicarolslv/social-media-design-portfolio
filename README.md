@@ -1,20 +1,27 @@
-# Portfólio de Social Media & Design Gráfico — Comunicação Institucional
+# 🎨 Portfólio de Social Media & Design Gráfico — Comunicação Institucional
 
 <p align="center">
   <img src="./posts/vestibular-inverno/02-folder-informativo.jpeg" alt="Campanha Web Design" width="100%">
 </p>
 
 ## 📌 Sobre o Projeto
-Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade. 
+Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade[cite: 1]. 
 
-Como monitora acadêmica responsável pelos canais de comunicação, o principal desafio foi estruturar layouts limpos, profissionais e padronizados, convertendo informações institucionais complexas em artes de alto impacto visual para estudantes e candidatos.
+Como monitora acadêmica responsável pelos canais de comunicação, o principal desafio foi estruturar layouts limpos, profissionais e padronizados, convertendo informações institucionais complexas em artes de alto impacto visual para estudantes e candidatos[cite: 1].
+
+---
+
+## ⏱️ Período de Atuação
+* **Início:** Agosto de 2025
+* **Fim:** Julho 2026
 
 ---
 
 ## 🛠️ Competências e Ferramentas
-* **Design & Criação Visual:** Canva e Figma
-* **Comunicação Institucional:** Produção de conteúdo livre de redundâncias, focado em clareza informativa.
-* **Planejamento de Campanhas:** Organização visual dividida por cronogramas de eventos e períodos seletivos.
+* **Design & Criação Visual:** Canva e Figma.
+* **Inteligência Artificial:** Uso de ferramentas de IA generativa para a concepção de elementos visuais inovadores e suporte na estilização de componentes das campanhas.
+* **Comunicação Institucional:** Produção de conteúdo livre de jargões redundantes, focado em clareza informativa, revisão minuciosa e tom profissional[cite: 1].
+* **Planejamento de Campanhas:** Organização visual dividida por cronogramas operacionais, eventos e períodos seletivos[cite: 1].
 
 ---
 
@@ -35,10 +42,10 @@ Artes focadas nos diferenciais da grade do curso e informações gerais sobre pr
 
 | Chamada de Perfil | Informativo Geral |
 | :---: | :---: |
-| <img src="./posts/vestibular-inverno/01-chamada-perfil.jpg" width="350px" alt="Vantagens do Curso"> | <img src="./posts/vestibular-inverno/02-folder-informativo.jpg" width="350px" alt="Inscrições Abertas"> |
+| <img src="./posts/vestibular-inverno/01-chamada-perfil.jpeg" width="350px" alt="Vantagens do Curso"> | <img src="./posts/vestibular-inverno/02-folder-informativo.jpeg" width="350px" alt="Inscrições Abertas"> |
 
-#### 🚨 Engajamento e Instrução Técnica
-Peças criadas para a reta final do cronograma, englobando senso de urgência e um guia prático de sobrevivência sobre o que levar no dia do exame.
+#### 🚨 Engajamento e Instrução Técnico-Comportamental
+Peças criadas para a reta final do cronograma, englobando senso de urgência e um guia prático de sobrevivência sobre as diretrizes e documentos necessários para o dia do exame.
 
 | Senso de Urgência (Contagem) | Guia do Candidato (O que levar) |
 | :---: | :---: |
@@ -51,4 +58,4 @@ Você pode conferir a aplicação e o feed completo com o uso desses templates d
 👉 [Acessar o Instagram Oficial](https://www.instagram.com/adsfatecourinhos/)
 
 ---
-<p align="center">Portfólio de monitoria focado em Design Visual, Identidade de Marca e Comunicação para Comunidades Acadêmicas de Tecnologia.</p>
+<p align="center">Portfólio de monitoria focado em Design Visual, Inteligência Artificial, Identidade de Marca e Comunicação para Comunidades Acadêmicas de Tecnologia.</p>
