@@ -5,9 +5,9 @@
 </p>
 
 ## 📌 Sobre o Projeto
-Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade[cite: 1]. 
+Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade. 
 
-Como monitora acadêmica responsável pelos canais de comunicação, o principal desafio foi estruturar layouts limpos, profissionais e padronizados, convertendo informações institucionais complexas em artes de alto impacto visual para estudantes e candidatos[cite: 1].
+Como monitora acadêmica responsável pelos canais de comunicação, o principal desafio foi estruturar layouts limpos, profissionais e padronizados, convertendo informações institucionais complexas em artes de alto impacto visual para estudantes e candidatos.
 
 ---
 
@@ -20,8 +20,8 @@ Como monitora acadêmica responsável pelos canais de comunicação, o principal
 ## 🛠️ Competências e Ferramentas
 * **Design & Criação Visual:** Canva e Figma.
 * **Inteligência Artificial:** Uso de ferramentas de IA generativa para a concepção de elementos visuais inovadores e suporte na estilização de componentes das campanhas.
-* **Comunicação Institucional:** Produção de conteúdo livre de jargões redundantes, focado em clareza informativa, revisão minuciosa e tom profissional[cite: 1].
-* **Planejamento de Campanhas:** Organização visual dividida por cronogramas operacionais, eventos e períodos seletivos[cite: 1].
+* **Comunicação Institucional:** Produção de conteúdo livre de jargões redundantes, focado em clareza informativa, revisão minuciosa e tom profissional.
+* **Planejamento de Campanhas:** Organização visual dividida por cronogramas operacionais, eventos e períodos seletivos.
 
 ---
 
