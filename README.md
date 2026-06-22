@@ -5,7 +5,7 @@
 </p>
 
 ## 📌 Sobre o Projeto
-Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade. 
+Este repositório reúne amostras selecionadas do trabalho de **Design Gráfico, Identidade Visual e Gestão de Conteúdo** desenvolvido para a página oficial do Instagram do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da faculdade Fatec Ourinhos. 
 
 Como monitora acadêmica responsável pelos canais de comunicação, o principal desafio foi estruturar layouts limpos, profissionais e padronizados, convertendo informações institucionais complexas em artes de alto impacto visual para estudantes e candidatos.
 
